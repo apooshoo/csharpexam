@@ -1,4 +1,5 @@
-﻿using System;
+using csharpexam.Events;
+using System;
 
 namespace csharpexam
 {
@@ -6,7 +7,8 @@ namespace csharpexam
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+					var testClass = new Subscribing();
+					testClass.Run();
         }
     }
 }

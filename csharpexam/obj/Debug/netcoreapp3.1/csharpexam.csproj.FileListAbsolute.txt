@@ -1,0 +1,13 @@
+C:\Users\rhyme\projects\csharpexam\csharpexam\bin\Debug\netcoreapp3.1\csharpexam.exe
+C:\Users\rhyme\projects\csharpexam\csharpexam\bin\Debug\netcoreapp3.1\csharpexam.deps.json
+C:\Users\rhyme\projects\csharpexam\csharpexam\bin\Debug\netcoreapp3.1\csharpexam.runtimeconfig.json
+C:\Users\rhyme\projects\csharpexam\csharpexam\bin\Debug\netcoreapp3.1\csharpexam.runtimeconfig.dev.json
+C:\Users\rhyme\projects\csharpexam\csharpexam\bin\Debug\netcoreapp3.1\csharpexam.dll
+C:\Users\rhyme\projects\csharpexam\csharpexam\bin\Debug\netcoreapp3.1\csharpexam.pdb
+C:\Users\rhyme\projects\csharpexam\csharpexam\obj\Debug\netcoreapp3.1\csharpexam.csprojAssemblyReference.cache
+C:\Users\rhyme\projects\csharpexam\csharpexam\obj\Debug\netcoreapp3.1\csharpexam.csproj.CoreCompileInputs.cache
+C:\Users\rhyme\projects\csharpexam\csharpexam\obj\Debug\netcoreapp3.1\csharpexam.AssemblyInfoInputs.cache
+C:\Users\rhyme\projects\csharpexam\csharpexam\obj\Debug\netcoreapp3.1\csharpexam.AssemblyInfo.cs
+C:\Users\rhyme\projects\csharpexam\csharpexam\obj\Debug\netcoreapp3.1\csharpexam.dll
+C:\Users\rhyme\projects\csharpexam\csharpexam\obj\Debug\netcoreapp3.1\csharpexam.pdb
+C:\Users\rhyme\projects\csharpexam\csharpexam\obj\Debug\netcoreapp3.1\csharpexam.genruntimeconfig.cache
