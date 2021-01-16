@@ -5,6 +5,16 @@ using System.Text;
 
 namespace csharpexam.Events
 {
+	//PUBLISHING EVENTS: Refers to:
+	//EITHER
+			//1: Defining delegate type 2: Defining event with delegate signature(1 and 2 can be done in one line with Action/Func)
+	//OR
+			//Defining event with EventHandler/EventHandler<YourCustomArgs>
+	//SUBSCRIBING TO EVENTS: Refers to [event] +=/-= method
+	//RAISING EVENTS: Refers to: (if [event] != null){ [event](this, args) }
+	//IMPORTANT:
+	//Derived classes cannot raise parent events, so they need to use a parent-defined method to raise it from inside.
+
   class Subscribing
   {
 		public void Run()
